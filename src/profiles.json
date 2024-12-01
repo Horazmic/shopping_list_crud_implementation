@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "permissions": ["read", "write", "delete"]
+  },
+  "owner": {
+    "permissions": ["read", "write", "delete"]
+  },
+  "member": {
+    "permissions": ["read", "write"]
+  },
+  "guest": {
+    "permissions": ["read"]
+  }
+}
